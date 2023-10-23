@@ -1,4 +1,5 @@
 #code by J0KER
+#code by Gypzy
 #!/usr/bin/env python3
 import logging
 from time import sleep
