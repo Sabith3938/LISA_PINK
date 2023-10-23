@@ -1,4 +1,5 @@
- #!/usr/bin/env python3
+#code by J0KER
+#!/usr/bin/env python3
 import logging
 from time import sleep
 import traceback
